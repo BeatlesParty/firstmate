@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Baloo+Bhaina");
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
 
 body {
   margin: 0;
@@ -19,12 +19,17 @@ body {
 #title {
   color: #625a56;
   margin: 0;
-  font-family: "Baloo Bhaina";
+  font-family: "Pacifico";
+  font-size: 22px;
   text-transform: uppercase;
 }
 
 img {
   width: 100%;
+}
+
+img.two{
+  width: 20%;
 }
 
 a {
